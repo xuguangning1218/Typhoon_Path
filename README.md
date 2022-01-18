@@ -29,3 +29,15 @@ or download the preprocessing data from my google drive
 ## Overall Architecture of our propsed model
 
 ![image](https://github.com/xuguangning1218/Typhoon_Path/blob/master/figure/network.png)
+
+## Citation
+If you find this code or idea useful, please cite our work:
+```bib
+@inproceedings{xu2022am,
+  title={AM-ConvGRU: a spatio-temporal model for typhoon path prediction},
+  author={Xu, G., Xian, D., Fournier-Viger, P., Xutao, L, Yunming, Y, Xiuqing H},
+  JO={Neural Computing and Applications},
+  dio={https://doi.org/10.1007/s00521-021-06724-x}
+  year={2022}
+}
+```
