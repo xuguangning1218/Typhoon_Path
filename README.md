@@ -37,6 +37,8 @@ If you find this code or idea useful, please cite our work:
   title={AM-ConvGRU: a spatio-temporal model for typhoon path prediction},
   author={Xu, G., Xian, D., Fournier-Viger, P., Xutao, L, Yunming, Y, Xiuqing H},
   JO={Neural Computing and Applications},
+  volume={34},
+  pages={5905–5921},
   dio={https://doi.org/10.1007/s00521-021-06724-x}
   year={2022}
 }
