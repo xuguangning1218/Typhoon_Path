@@ -24,7 +24,11 @@ or download the preprocessing data from my google drive
 
 ---
 
-* Step 5. Finnaly, you can run the main jupyter notebook **Model.ipynb**
+* Step 5. Run the jupyter notebook **CMA_preprocessing.ipynb** in the root folder to construct the best track typhoon features
+
+---
+
+* Step 6. Finnaly, you can run the main jupyter notebook **Model.ipynb**
 
 ## Overall Architecture of our propsed model
 
