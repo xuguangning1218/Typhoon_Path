@@ -12,7 +12,7 @@ conda env create -f Typhoon_Path.yaml
 * Step 2. Download the require z (geopotential) reanalysis data from ERA-Interim offical site
 <https://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/>
 or download the preprocessing data from my google drive
-<https://drive.google.com/drive/folders/1o6afeGE9cux5uGB5j0Tzot_ygYAOsxv3?usp=sharing>
+<https://drive.google.com/drive/folders/1o6afeGE9cux5uGB5j0Tzot_ygYAOsxv3?usp=sharing>. If you want to download other available ERA-Interim variables (temperature, components of wind) that relates to this paper, please visit this link: <https://pan.baidu.com/s/1wBNp06D1pcDThW20pFllrg?pwd=qaxs>.
 
 ---
 
